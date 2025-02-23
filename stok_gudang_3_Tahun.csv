@@ -1,0 +1,469 @@
+﻿Tanggal;Produk;Jumlah Terjual
+2021-01;Kerupuk Udang Melati;799
+2021-01;Keripik Pisang;502
+2021-01;Kerupuk Udang Mawar;253
+2021-01;Makaroni;267
+2021-01;Keripik Singkong Asin;523
+2021-01;Ring;481
+2021-01;Sanjai Balado;390
+2021-01;Kerupuk Ikan;600
+2021-01;Kerupuk Jengkol;661
+2021-01;Keripik Untir-Untir;338
+2021-01;Kerupuk Seblak;303
+2021-01;Stick Keju;783
+2021-01;Keripik Singkong Pedas;406
+2021-02;Kerupuk Udang Melati;72
+2021-02;Keripik Pisang;571
+2021-02;Kerupuk Udang Mawar;149
+2021-02;Makaroni;229
+2021-02;Keripik Singkong Asin;272
+2021-02;Ring;708
+2021-02;Sanjai Balado;491
+2021-02;Kerupuk Ikan;657
+2021-02;Kerupuk Jengkol;374
+2021-02;Keripik Untir-Untir;565
+2021-02;Kerupuk Seblak;65
+2021-02;Stick Keju;385
+2021-02;Keripik Singkong Pedas;307
+2021-03;Kerupuk Udang Melati;546
+2021-03;Keripik Pisang;209
+2021-03;Kerupuk Udang Mawar;524
+2021-03;Makaroni;713
+2021-03;Keripik Singkong Asin;739
+2021-03;Ring;724
+2021-03;Sanjai Balado;429
+2021-03;Kerupuk Ikan;594
+2021-03;Kerupuk Jengkol;740
+2021-03;Keripik Untir-Untir;476
+2021-03;Kerupuk Seblak;662
+2021-03;Stick Keju;317
+2021-03;Keripik Singkong Pedas;626
+2021-04;Kerupuk Udang Melati;466
+2021-04;Keripik Pisang;217
+2021-04;Kerupuk Udang Mawar;92
+2021-04;Makaroni;605
+2021-04;Keripik Singkong Asin;334
+2021-04;Ring;446
+2021-04;Sanjai Balado;61
+2021-04;Kerupuk Ikan;656
+2021-04;Kerupuk Jengkol;351
+2021-04;Keripik Untir-Untir;302
+2021-04;Kerupuk Seblak;548
+2021-04;Stick Keju;84
+2021-04;Keripik Singkong Pedas;776
+2021-05;Kerupuk Udang Melati;139
+2021-05;Keripik Pisang;654
+2021-05;Kerupuk Udang Mawar;651
+2021-05;Makaroni;467
+2021-05;Keripik Singkong Asin;164
+2021-05;Ring;666
+2021-05;Sanjai Balado;245
+2021-05;Kerupuk Ikan;550
+2021-05;Kerupuk Jengkol;675
+2021-05;Keripik Untir-Untir;542
+2021-05;Kerupuk Seblak;124
+2021-05;Stick Keju;462
+2021-05;Keripik Singkong Pedas;425
+2021-06;Kerupuk Udang Melati;469
+2021-06;Keripik Pisang;778
+2021-06;Kerupuk Udang Mawar;326
+2021-06;Makaroni;725
+2021-06;Keripik Singkong Asin;443
+2021-06;Ring;506
+2021-06;Sanjai Balado;241
+2021-06;Kerupuk Ikan;788
+2021-06;Kerupuk Jengkol;738
+2021-06;Keripik Untir-Untir;148
+2021-06;Kerupuk Seblak;597
+2021-06;Stick Keju;145
+2021-06;Keripik Singkong Pedas;713
+2021-07;Kerupuk Udang Melati;712
+2021-07;Keripik Pisang;239
+2021-07;Kerupuk Udang Mawar;785
+2021-07;Makaroni;86
+2021-07;Keripik Singkong Asin;418
+2021-07;Ring;744
+2021-07;Sanjai Balado;574
+2021-07;Kerupuk Ikan;328
+2021-07;Kerupuk Jengkol;266
+2021-07;Keripik Untir-Untir;322
+2021-07;Kerupuk Seblak;111
+2021-07;Stick Keju;645
+2021-07;Keripik Singkong Pedas;778
+2021-08;Kerupuk Udang Melati;391
+2021-08;Keripik Pisang;446
+2021-08;Kerupuk Udang Mawar;748
+2021-08;Makaroni;68
+2021-08;Keripik Singkong Asin;226
+2021-08;Ring;661
+2021-08;Sanjai Balado;445
+2021-08;Kerupuk Ikan;494
+2021-08;Kerupuk Jengkol;282
+2021-08;Keripik Untir-Untir;125
+2021-08;Kerupuk Seblak;314
+2021-08;Stick Keju;504
+2021-08;Keripik Singkong Pedas;767
+2021-09;Kerupuk Udang Melati;784
+2021-09;Keripik Pisang;433
+2021-09;Kerupuk Udang Mawar;613
+2021-09;Makaroni;555
+2021-09;Keripik Singkong Asin;416
+2021-09;Ring;193
+2021-09;Sanjai Balado;118
+2021-09;Kerupuk Ikan;148
+2021-09;Kerupuk Jengkol;445
+2021-09;Keripik Untir-Untir;74
+2021-09;Kerupuk Seblak;518
+2021-09;Stick Keju;533
+2021-09;Keripik Singkong Pedas;614
+2021-10;Kerupuk Udang Melati;200
+2021-10;Keripik Pisang;193
+2021-10;Kerupuk Udang Mawar;618
+2021-10;Makaroni;88
+2021-10;Keripik Singkong Asin;158
+2021-10;Ring;742
+2021-10;Sanjai Balado;91
+2021-10;Kerupuk Ikan;235
+2021-10;Kerupuk Jengkol;447
+2021-10;Keripik Untir-Untir;272
+2021-10;Kerupuk Seblak;683
+2021-10;Stick Keju;182
+2021-10;Keripik Singkong Pedas;212
+2021-11;Kerupuk Udang Melati;264
+2021-11;Keripik Pisang;782
+2021-11;Kerupuk Udang Mawar;284
+2021-11;Makaroni;707
+2021-11;Keripik Singkong Asin;637
+2021-11;Ring;58
+2021-11;Sanjai Balado;123
+2021-11;Kerupuk Ikan;541
+2021-11;Kerupuk Jengkol;302
+2021-11;Keripik Untir-Untir;279
+2021-11;Kerupuk Seblak;568
+2021-11;Stick Keju;223
+2021-11;Keripik Singkong Pedas;702
+2021-12;Kerupuk Udang Melati;217
+2021-12;Keripik Pisang;219
+2021-12;Kerupuk Udang Mawar;442
+2021-12;Makaroni;683
+2021-12;Keripik Singkong Asin;243
+2021-12;Ring;566
+2021-12;Sanjai Balado;78
+2021-12;Kerupuk Ikan;214
+2021-12;Kerupuk Jengkol;471
+2021-12;Keripik Untir-Untir;388
+2021-12;Kerupuk Seblak;697
+2021-12;Stick Keju;545
+2021-12;Keripik Singkong Pedas;414
+2022-01;Kerupuk Udang Melati;391
+2022-01;Keripik Pisang;549
+2022-01;Kerupuk Udang Mawar;706
+2022-01;Makaroni;560
+2022-01;Keripik Singkong Asin;376
+2022-01;Ring;266
+2022-01;Sanjai Balado;350
+2022-01;Kerupuk Ikan;181
+2022-01;Kerupuk Jengkol;119
+2022-01;Keripik Untir-Untir;301
+2022-01;Kerupuk Seblak;464
+2022-01;Stick Keju;494
+2022-01;Keripik Singkong Pedas;231
+2022-02;Kerupuk Udang Melati;216
+2022-02;Keripik Pisang;140
+2022-02;Kerupuk Udang Mawar;763
+2022-02;Makaroni;580
+2022-02;Keripik Singkong Asin;88
+2022-02;Ring;175
+2022-02;Sanjai Balado;500
+2022-02;Kerupuk Ikan;222
+2022-02;Kerupuk Jengkol;702
+2022-02;Keripik Untir-Untir;269
+2022-02;Kerupuk Seblak;687
+2022-02;Stick Keju;107
+2022-02;Keripik Singkong Pedas;709
+2022-03;Kerupuk Udang Melati;525
+2022-03;Keripik Pisang;505
+2022-03;Kerupuk Udang Mawar;410
+2022-03;Makaroni;50
+2022-03;Keripik Singkong Asin;436
+2022-03;Ring;397
+2022-03;Sanjai Balado;239
+2022-03;Kerupuk Ikan;554
+2022-03;Kerupuk Jengkol;240
+2022-03;Keripik Untir-Untir;557
+2022-03;Kerupuk Seblak;418
+2022-03;Stick Keju;458
+2022-03;Keripik Singkong Pedas;166
+2022-04;Kerupuk Udang Melati;183
+2022-04;Keripik Pisang;107
+2022-04;Kerupuk Udang Mawar;605
+2022-04;Makaroni;734
+2022-04;Keripik Singkong Asin;721
+2022-04;Ring;222
+2022-04;Sanjai Balado;198
+2022-04;Kerupuk Ikan;129
+2022-04;Kerupuk Jengkol;262
+2022-04;Keripik Untir-Untir;252
+2022-04;Kerupuk Seblak;278
+2022-04;Stick Keju;725
+2022-04;Keripik Singkong Pedas;276
+2022-05;Kerupuk Udang Melati;708
+2022-05;Keripik Pisang;581
+2022-05;Kerupuk Udang Mawar;490
+2022-05;Makaroni;451
+2022-05;Keripik Singkong Asin;96
+2022-05;Ring;282
+2022-05;Sanjai Balado;354
+2022-05;Kerupuk Ikan;575
+2022-05;Kerupuk Jengkol;192
+2022-05;Keripik Untir-Untir;464
+2022-05;Kerupuk Seblak;562
+2022-05;Stick Keju;422
+2022-05;Keripik Singkong Pedas;615
+2022-06;Kerupuk Udang Melati;308
+2022-06;Keripik Pisang;705
+2022-06;Kerupuk Udang Mawar;520
+2022-06;Makaroni;61
+2022-06;Keripik Singkong Asin;379
+2022-06;Ring;785
+2022-06;Sanjai Balado;407
+2022-06;Kerupuk Ikan;457
+2022-06;Kerupuk Jengkol;717
+2022-06;Keripik Untir-Untir;422
+2022-06;Kerupuk Seblak;57
+2022-06;Stick Keju;171
+2022-06;Keripik Singkong Pedas;397
+2022-07;Kerupuk Udang Melati;725
+2022-07;Keripik Pisang;139
+2022-07;Kerupuk Udang Mawar;697
+2022-07;Makaroni;747
+2022-07;Keripik Singkong Asin;365
+2022-07;Ring;227
+2022-07;Sanjai Balado;589
+2022-07;Kerupuk Ikan;781
+2022-07;Kerupuk Jengkol;90
+2022-07;Keripik Untir-Untir;789
+2022-07;Kerupuk Seblak;753
+2022-07;Stick Keju;551
+2022-07;Keripik Singkong Pedas;194
+2022-08;Kerupuk Udang Melati;250
+2022-08;Keripik Pisang;773
+2022-08;Kerupuk Udang Mawar;510
+2022-08;Makaroni;781
+2022-08;Keripik Singkong Asin;607
+2022-08;Ring;596
+2022-08;Sanjai Balado;302
+2022-08;Kerupuk Ikan;439
+2022-08;Kerupuk Jengkol;643
+2022-08;Keripik Untir-Untir;305
+2022-08;Kerupuk Seblak;758
+2022-08;Stick Keju;499
+2022-08;Keripik Singkong Pedas;59
+2022-09;Kerupuk Udang Melati;291
+2022-09;Keripik Pisang;300
+2022-09;Kerupuk Udang Mawar;54
+2022-09;Makaroni;168
+2022-09;Keripik Singkong Asin;423
+2022-09;Ring;114
+2022-09;Sanjai Balado;195
+2022-09;Kerupuk Ikan;273
+2022-09;Kerupuk Jengkol;288
+2022-09;Keripik Untir-Untir;226
+2022-09;Kerupuk Seblak;331
+2022-09;Stick Keju;112
+2022-09;Keripik Singkong Pedas;266
+2022-10;Kerupuk Udang Melati;738
+2022-10;Keripik Pisang;510
+2022-10;Kerupuk Udang Mawar;659
+2022-10;Makaroni;154
+2022-10;Keripik Singkong Asin;148
+2022-10;Ring;560
+2022-10;Sanjai Balado;434
+2022-10;Kerupuk Ikan;454
+2022-10;Kerupuk Jengkol;567
+2022-10;Keripik Untir-Untir;525
+2022-10;Kerupuk Seblak;758
+2022-10;Stick Keju;694
+2022-10;Keripik Singkong Pedas;486
+2022-11;Kerupuk Udang Melati;72
+2022-11;Keripik Pisang;614
+2022-11;Kerupuk Udang Mawar;726
+2022-11;Makaroni;763
+2022-11;Keripik Singkong Asin;507
+2022-11;Ring;132
+2022-11;Sanjai Balado;194
+2022-11;Kerupuk Ikan;134
+2022-11;Kerupuk Jengkol;127
+2022-11;Keripik Untir-Untir;506
+2022-11;Kerupuk Seblak;50
+2022-11;Stick Keju;100
+2022-11;Keripik Singkong Pedas;734
+2022-12;Kerupuk Udang Melati;766
+2022-12;Keripik Pisang;495
+2022-12;Kerupuk Udang Mawar;498
+2022-12;Makaroni;537
+2022-12;Keripik Singkong Asin;83
+2022-12;Ring;397
+2022-12;Sanjai Balado;144
+2022-12;Kerupuk Ikan;121
+2022-12;Kerupuk Jengkol;600
+2022-12;Keripik Untir-Untir;203
+2022-12;Kerupuk Seblak;299
+2022-12;Stick Keju;723
+2022-12;Keripik Singkong Pedas;487
+2023-01;Kerupuk Udang Melati;167
+2023-01;Keripik Pisang;355
+2023-01;Kerupuk Udang Mawar;317
+2023-01;Makaroni;103
+2023-01;Keripik Singkong Asin;285
+2023-01;Ring;438
+2023-01;Sanjai Balado;783
+2023-01;Kerupuk Ikan;450
+2023-01;Kerupuk Jengkol;673
+2023-01;Keripik Untir-Untir;352
+2023-01;Kerupuk Seblak;256
+2023-01;Stick Keju;278
+2023-01;Keripik Singkong Pedas;627
+2023-02;Kerupuk Udang Melati;124
+2023-02;Keripik Pisang;484
+2023-02;Kerupuk Udang Mawar;152
+2023-02;Makaroni;471
+2023-02;Keripik Singkong Asin;753
+2023-02;Ring;787
+2023-02;Sanjai Balado;355
+2023-02;Kerupuk Ikan;147
+2023-02;Kerupuk Jengkol;384
+2023-02;Keripik Untir-Untir;484
+2023-02;Kerupuk Seblak;496
+2023-02;Stick Keju;357
+2023-02;Keripik Singkong Pedas;298
+2023-03;Kerupuk Udang Melati;215
+2023-03;Keripik Pisang;530
+2023-03;Kerupuk Udang Mawar;384
+2023-03;Makaroni;591
+2023-03;Keripik Singkong Asin;155
+2023-03;Ring;612
+2023-03;Sanjai Balado;130
+2023-03;Kerupuk Ikan;182
+2023-03;Kerupuk Jengkol;187
+2023-03;Keripik Untir-Untir;233
+2023-03;Kerupuk Seblak;450
+2023-03;Stick Keju;379
+2023-03;Keripik Singkong Pedas;557
+2023-04;Kerupuk Udang Melati;118
+2023-04;Keripik Pisang;595
+2023-04;Kerupuk Udang Mawar;102
+2023-04;Makaroni;499
+2023-04;Keripik Singkong Asin;254
+2023-04;Ring;175
+2023-04;Sanjai Balado;796
+2023-04;Kerupuk Ikan;92
+2023-04;Kerupuk Jengkol;160
+2023-04;Keripik Untir-Untir;712
+2023-04;Kerupuk Seblak;232
+2023-04;Stick Keju;144
+2023-04;Keripik Singkong Pedas;423
+2023-05;Kerupuk Udang Melati;569
+2023-05;Keripik Pisang;409
+2023-05;Kerupuk Udang Mawar;745
+2023-05;Makaroni;330
+2023-05;Keripik Singkong Asin;244
+2023-05;Ring;244
+2023-05;Sanjai Balado;716
+2023-05;Kerupuk Ikan;142
+2023-05;Kerupuk Jengkol;721
+2023-05;Keripik Untir-Untir;110
+2023-05;Kerupuk Seblak;683
+2023-05;Stick Keju;100
+2023-05;Keripik Singkong Pedas;452
+2023-06;Kerupuk Udang Melati;54
+2023-06;Keripik Pisang;515
+2023-06;Kerupuk Udang Mawar;653
+2023-06;Makaroni;731
+2023-06;Keripik Singkong Asin;583
+2023-06;Ring;454
+2023-06;Sanjai Balado;562
+2023-06;Kerupuk Ikan;694
+2023-06;Kerupuk Jengkol;282
+2023-06;Keripik Untir-Untir;573
+2023-06;Kerupuk Seblak;395
+2023-06;Stick Keju;95
+2023-06;Keripik Singkong Pedas;595
+2023-07;Kerupuk Udang Melati;127
+2023-07;Keripik Pisang;779
+2023-07;Kerupuk Udang Mawar;122
+2023-07;Makaroni;298
+2023-07;Keripik Singkong Asin;96
+2023-07;Ring;170
+2023-07;Sanjai Balado;263
+2023-07;Kerupuk Ikan;288
+2023-07;Kerupuk Jengkol;105
+2023-07;Keripik Untir-Untir;399
+2023-07;Kerupuk Seblak;156
+2023-07;Stick Keju;97
+2023-07;Keripik Singkong Pedas;622
+2023-08;Kerupuk Udang Melati;386
+2023-08;Keripik Pisang;75
+2023-08;Kerupuk Udang Mawar;306
+2023-08;Makaroni;57
+2023-08;Keripik Singkong Asin;674
+2023-08;Ring;302
+2023-08;Sanjai Balado;741
+2023-08;Kerupuk Ikan;768
+2023-08;Kerupuk Jengkol;352
+2023-08;Keripik Untir-Untir;688
+2023-08;Kerupuk Seblak;105
+2023-08;Stick Keju;775
+2023-08;Keripik Singkong Pedas;575
+2023-09;Kerupuk Udang Melati;523
+2023-09;Keripik Pisang;77
+2023-09;Kerupuk Udang Mawar;127
+2023-09;Makaroni;265
+2023-09;Keripik Singkong Asin;435
+2023-09;Ring;414
+2023-09;Sanjai Balado;715
+2023-09;Kerupuk Ikan;575
+2023-09;Kerupuk Jengkol;748
+2023-09;Keripik Untir-Untir;361
+2023-09;Kerupuk Seblak;56
+2023-09;Stick Keju;52
+2023-09;Keripik Singkong Pedas;672
+2023-10;Kerupuk Udang Melati;799
+2023-10;Keripik Pisang;412
+2023-10;Kerupuk Udang Mawar;557
+2023-10;Makaroni;323
+2023-10;Keripik Singkong Asin;555
+2023-10;Ring;788
+2023-10;Sanjai Balado;64
+2023-10;Kerupuk Ikan;241
+2023-10;Kerupuk Jengkol;680
+2023-10;Keripik Untir-Untir;534
+2023-10;Kerupuk Seblak;77
+2023-10;Stick Keju;763
+2023-10;Keripik Singkong Pedas;88
+2023-11;Kerupuk Udang Melati;322
+2023-11;Keripik Pisang;280
+2023-11;Kerupuk Udang Mawar;135
+2023-11;Makaroni;523
+2023-11;Keripik Singkong Asin;175
+2023-11;Ring;586
+2023-11;Sanjai Balado;194
+2023-11;Kerupuk Ikan;574
+2023-11;Kerupuk Jengkol;261
+2023-11;Keripik Untir-Untir;74
+2023-11;Kerupuk Seblak;629
+2023-11;Stick Keju;443
+2023-11;Keripik Singkong Pedas;116
+2023-12;Kerupuk Udang Melati;282
+2023-12;Keripik Pisang;158
+2023-12;Kerupuk Udang Mawar;195
+2023-12;Makaroni;160
+2023-12;Keripik Singkong Asin;277
+2023-12;Ring;160
+2023-12;Sanjai Balado;519
+2023-12;Kerupuk Ikan;83
+2023-12;Kerupuk Jengkol;672
+2023-12;Keripik Untir-Untir;418
+2023-12;Kerupuk Seblak;797
+2023-12;Stick Keju;644
+2023-12;Keripik Singkong Pedas;603
